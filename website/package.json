@@ -10,9 +10,9 @@
     "deploy": "docusaurus deploy"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.1.1",
+    "@docusaurus/core": "^3.6.0",
     "@docusaurus/plugin-google-gtag": "^3.1.1",
-    "@docusaurus/preset-classic": "^3.1.1",
+    "@docusaurus/preset-classic": "^3.6.0",
     "async": "2.6.4",
     "classnames": "2.5.1",
     "got": "11.8.5",
