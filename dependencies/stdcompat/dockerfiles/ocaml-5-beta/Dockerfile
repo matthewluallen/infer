@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:24.10
 ARG UID=1000
 RUN apt-get update && apt-get install --yes autoconf automake unzip aspcud rsync \
     git mercurial darcs wget build-essential sudo vim curl
